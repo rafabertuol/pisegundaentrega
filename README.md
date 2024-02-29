@@ -20,17 +20,8 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 - Inserção de notas no sistema: o professor acessa a página de login do sistema, onde há campo para inserir as suas credenciais (login e senha). Caso válidas, o professor é autenticado e tem acesso ao sistema. No sistema há uma interface com os botões: lançamento de notas, criação de planos de aula, publicação de materiais didáticos, fóruns e grupos de estudos, comunicação. O professor clica na opção "lançamento de notas", onde seleciona a turma e insere as notas dos alunos. O sistema valida as notas e as armazena no banco de dados, exibindo uma mensagem de confirmação. No momento de validar as notas, se o sistema identificar uma nota inválida (fora da faixa permitida), exibe uma mensagem de erro. O professor corrige a nota e reenvia o dado correto.
 
 3) Funcionários:
-- Cadastro do aluno no sistema: após o aluno se matricular no curso desejado e a matrícula ter sido confirmada, o funcionário responsável inicia o cadastro desse como aluno no sistema. O funcionário acessa a página de login do sistema, onde há campo para inserir as suas credenciais (login e senha). Caso válidas, o funcionário é autenticado e tem acesso ao sistema. No sistema há uma interface com os botões: cadastros, recursos humanos, folha de pagamento, treinamentos, controle de estoque, requisição de materiais e serviços. O funcionário clica na opção "cadastros" e abre uma interface com as opções
-- 
-- O sistema registra as informações e atribui uma matrícula ao aluno. O sistema registra o novo usuário no banco de dados e exibe uma mensagem de sucesso. 
+- Cadastro do aluno no sistema: após o aluno se matricular no curso desejado e a matrícula ter sido confirmada, o funcionário responsável inicia o cadastro desse como aluno no sistema. O funcionário acessa a página de login do sistema, onde há campo para inserir as suas credenciais (login e senha). Caso válidas, o funcionário é autenticado e tem acesso ao sistema. No sistema há uma interface com os botões: novos cadastros, consulta de cadastros, recursos humanos, folha de pagamento, treinamentos, controle de estoque, requisição de materiais e serviços. O funcionário clica na opção "novos cadastros" e abre uma interface com as opções: cadastro de aluno, cadastro de professores e cadastro de funcionários. O funcionário seleciona a opção "cadastro de aluno" e abre uma nova interface para inserção de dados do novo aluno. O sistema registra as informações e atribui uma matrícula ao aluno. O sistema registra o novo usuário no banco de dados e exibe uma mensagem de sucesso. Caso a matrícula não tenha sido confirmada pelo sistema, abrirá uma mensagem de erro "aluno não encontrado" e o aluno receberá um e-mail informado o motivo da não confirmação, para que possa tomar as medidas cabíveis. 
 
-3.3.2. Cenário Alternativo 1 – Matrícula não confirmada:
-Caso a matrícula não tenha sido confirmada pelo sistema, o candidato receberá um e-mail informado o motivo da não confirmação, para que possa tomar as medidas cabíveis. 
-
-3.3.3. Cenário Alternativo 2 - Cancelamento:
-Durante o processo, o funcionário decide cancelar o cadastro. O sistema descarta as alterações e limpa o formulário. 
-
-   
 ## Protótipo de interface de usuário: Pessoa Jurídica
 1) Fornecedores:
 
