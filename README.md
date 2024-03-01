@@ -10,7 +10,7 @@ Repositório destinado ao trabalho Projeto Integrador do SENAC. O grupo contém 
 - Thiago Diego Duarte de Sousa de Pieri
 
 ## Objetivo
-O projeto consiste em apresentar protótipos de interface de um sistema de gestão escolar, de acordo com diagramas de caso de uso desenvolvidos na primeira etapa do projeto. Os protótipos serão divididos de acordo com o usuário a utilizar o sistema, sendo: pessoa física, pessoa jurídica, professores, fornecedores e alunos.
+O projeto consiste em apresentar protótipos de interface de um sistema de gestão escolar, de acordo com diagramas de caso de uso desenvolvidos na primeira etapa do projeto. Os protótipos serão divididos de acordo com o usuário a utilizar o sistema, sendo: pessoas físicas: alunos, professores, funcionários; e pessoas jurídicas: fornecedores.
 
 ## Protótipo de interface de usuário: Pessoa Física
 1) Alunos:
