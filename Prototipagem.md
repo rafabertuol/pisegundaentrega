@@ -11,38 +11,19 @@ a) Página de Login do sistema:
 ## 2) Professores:
 Descrição das telas para criação do protótipo:
 
-a) Página de Login do sistema:
-- Campo de entrada para o login do professor.
-- Campo de entrada para a senha do professor.
-- Botão "Entrar" para submeter as credenciais e autenticar o professor.
-- Botão “recuperar senha” para uso se necessário. 
-
-b) Página principal do sistema:
-Após o login bem-sucedido, o professor é redirecionado para a página principal do sistema.
-
-Interface com os seguintes botões:
-
-- "Lançamento de Notas": Permite que o professor insira notas para os alunos.
-- "Calendário Acadêmico": Exibe eventos e datas importantes relacionadas ao calendário acadêmico.
-- "Criação de Planos de Aula": Permite que o professor crie planos de aula para suas disciplinas.
-- "Publicação de Materiais Didáticos": Facilita a publicação de materiais de estudo para os alunos.
-- "Fóruns e Grupos de Estudos": Oferece espaço para interação entre alunos e professores.
-- "Comunicação": Facilita a comunicação entre professores e alunos.
-- "Atualizar Dados": Permite que o professor atualize suas informações pessoais.
-
-c) Tela de Lançamento de Notas:
+a) Tela de Lançamento de Notas:
 - Ao clicar no botão "Lançamento de Notas", o professor é levado para a tela onde pode inserir notas para os alunos. Na tela, estarão disponíveis as turmas para qual leciona com nome da disciplina e código da turma.
 - O professor seleciona a turma para a qual deseja lançar as notas.
 - O sistema exibe uma tabela com os alunos matriculados na turma, permitindo a inserção das notas correspondentes a cada aluno. Ao lado do nome de cada aluno há um campo de digitação para inserção da nota. 
 - Botão "Voltar" para retornar à página principal.
 - Botão "Salvar Notas" para submeter as notas inseridas.
 
-d) Pop-up de Confirmação de lançamento das notas:
+b) Pop-up de Confirmação de lançamento das notas:
 - O pop-up exibe o texto “Deseja confirmar as notas inseridas?”, com as opções de botão “sim” ou “não”.
 - O professor clica na opção “sim” e abre um pop-up exibindo o texto “Notas registradas com sucesso”.
 - Botão "Fechar" para fechar o pop-up e retornar à tela de lançamento de notas.
 
-e) Mensagem de Erro:
+c) Mensagem de Erro:
 - Após clicar na opção sim no pop-up, se o sistema identificar uma nota inválida (fora da faixa permitida), uma mensagem de erro é exibida “nota inválida”, indicando a necessidade de correção.
 - O professor pode corrigir a nota incorreta e reenviar os dados corrigidos.
 
