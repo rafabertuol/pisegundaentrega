@@ -67,7 +67,7 @@ d) Pop-up de Confirmação de lançamento das notas:
 - O professor clica na opção “sim” e abre um pop-up exibindo o texto “Notas registradas com sucesso”.
 - Botão "Fechar" para fechar o pop-up e retornar à tela de lançamento de notas.
 
-d) Mensagem de Erro:
+e) Mensagem de Erro:
 - Após clicar na opção sim no pop-up, se o sistema identificar uma nota inválida (fora da faixa permitida), uma mensagem de erro é exibida “nota inválida”, indicando a necessidade de correção.
 - O professor pode corrigir a nota incorreta e reenviar os dados corrigidos.
 
