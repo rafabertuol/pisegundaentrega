@@ -41,6 +41,9 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 - Visualização de novo pedido: o fornecedor (pessoa jurídica) acessa a página de login do sistema, onde há campo para inserir as suas credenciais (login e senha). Caso válidas, o fornecedor é autenticado e tem acesso ao sistema. No sistema há uma interface com os botões: novos pedidos, pedidos em andamento, pedidos finalizados, gestão de contratos, rastreamento de entregas, emissão de notas fiscais, comunicação. O fornecedor clica na opção "novos pedidos" e abre uma interface com a lista dos pedidos novos. Ao clicar sobre um pedido, abre uma nova janela com os itens solicitados e as opções "aceitar" e "recusar". O fornecedor seleciona a opção "aceitar", o sistema registra o novo pedido e exibe uma mensagem de sucesso.
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
 
+![Fornecedor 1](
+![Fornecedor 2](
+
 
 
 
