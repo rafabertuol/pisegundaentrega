@@ -15,8 +15,6 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 ## Caso de uso 1: fazer login no sistema
 - O ator "Pessoa Física" (professor, aluno ou funcionário) acessa a página de login do sistema, insere as credenciais (matrícula e senha) e o sistema valida as credenciais. Se forem válidas, o ator é autenticado e tem acesso a página inicial do sistema. Caso contrário, uma mensagem de erro é exibida.
 
-- Ao serem inseridas as credenciais, caso sejam inválidas, uma mensagem de erro é exibida. O ator tem a opção de tentar novamente.
-
 - Ao tentar inserir as credenciais, caso não se lembre destas, o ator pode selecionar a opção de recuperação de senha. O sistema envia um e-mail com um link de redefinição de senha. O ator acessa o link, define uma nova senha e é redirecionado para a página de login.
 
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
