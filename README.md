@@ -32,7 +32,7 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 - Cadastro do aluno no sistema: após o aluno se matricular no curso desejado e a matrícula ter sido confirmada, o funcionário responsável inicia o cadastro desse como aluno no sistema. O funcionário acessa a página de login do sistema, onde há campo para inserir as suas credenciais (login e senha). Caso válidas, o funcionário é autenticado e tem acesso ao sistema. No sistema há uma interface com os botões: novos cadastros, consulta de cadastros, recursos humanos, folha de pagamento, treinamentos, controle de estoque, requisição de materiais e serviços. O funcionário clica na opção "novos cadastros" e abre uma interface com as opções: cadastro de aluno, cadastro de professores e cadastro de funcionários. O funcionário seleciona a opção "cadastro de aluno" e abre uma nova interface para inserção de dados do novo aluno. O sistema registra as informações e atribui uma matrícula ao aluno. O sistema registra o novo usuário no banco de dados e exibe uma mensagem de sucesso. Caso a matrícula não tenha sido confirmada pelo sistema, abrirá uma mensagem de erro "aluno não encontrado" e o aluno receberá um e-mail informado o motivo da não confirmação, para que possa tomar as medidas cabíveis.
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
 
-![Cadastro aluno 1]
+![Cadastro aluno 1](https://github.com/rafabertuol/pisegundaentrega/blob/c9b407058ce9ade12af68c009718ac3f522ccfe4/Caso%20de%20Uso%203%20-%20Cadastrar%20Aluno.png)
 ![Cadastro aluno 2]
 ![Cadastro aluno 3]
 
