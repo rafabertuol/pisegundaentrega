@@ -33,7 +33,7 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
 
 ![Cadastro aluno 1](https://github.com/rafabertuol/pisegundaentrega/blob/c9b407058ce9ade12af68c009718ac3f522ccfe4/Caso%20de%20Uso%203%20-%20Cadastrar%20Aluno.png)
-![Cadastro aluno 2]
+![Cadastro aluno 2](https://github.com/rafabertuol/pisegundaentrega/blob/80a12a00d6bf555fec21a3d8a2bc743ef4d5e52f/Caso%20de%20Uso%203%20-%20Matr%C3%ADcula%20n%C3%A3o%20confirmada.png)
 ![Cadastro aluno 3]
 
 ## Protótipo de interface de usuário: Pessoa Jurídica
