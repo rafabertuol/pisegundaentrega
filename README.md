@@ -42,7 +42,7 @@ O projeto consiste em apresentar prot√≥tipos de interface de um sistema de gest√
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
 
 ![Fornecedor 1](https://github.com/rafabertuol/pisegundaentrega/blob/943384806dc7b862d5fb48d5c0e45d2205f7104d/Caso%20de%20uso%202%20-%20Cadastro%20de%20fornecedor%20produto%20ou%20servico%20nao%20encontrado.png)
-![Fornecedor 2](
+![Fornecedor 2](https://github.com/rafabertuol/pisegundaentrega/blob/d7ea340240409332cdfd42f4a14b978ee5473f76/Caso%20de%20uso%202%20-%20Cadastro%20de%20fornecedor%20cancelado.png)
 
 
 
