@@ -8,31 +8,6 @@ a) Página de Login do sistema:
 - Botão "Entrar" para submeter as credenciais e autenticar o aluno.
 - Botão “recuperar senha” para uso se necessário. 
 
-b) Página Principal do Sistema:
-
-Após o login bem-sucedido, o aluno é redirecionado para a página principal do sistema.
-
-Interface com os seguintes botões:
-- "Notas": Acessa as notas do aluno em disciplinas anteriores.
-- "Calendário Acadêmico": Exibe eventos e datas importantes relacionadas ao calendário acadêmico.
-- "Realizar Matrícula": Permite que o aluno se matricule em disciplinas para o próximo semestre.
-- "Financeiro": Fornece acesso às informações financeiras, como pagamentos, mensalidades, etc.
-- "Serviços": Oferece acesso a outros serviços oferecidos pela instituição, como biblioteca, refeitório, etc.
-- "Comunicação": Facilita a comunicação entre alunos e professores, através de mensagens internas.
-
-c) Tela de Realizar Matrícula:
-- Ao clicar no botão "Realizar Matrícula", o aluno é levado para a tela onde todas as disciplinas disponíveis para o próximo semestre são listadas.
-- Cada disciplina é exibida com seu nome, código, horário e disponibilidade de vagas.
-- Botão "Voltar" para retornar à página principal.
-- Botão "Confirmar Matrícula" ao lado de cada disciplina disponível.
-
-d) Pop-up de Confirmação de Matrícula:
-
-- Ao clicar no botão "Confirmar Matrícula" de uma disciplina específica, um pop-up de confirmação é exibido.
-- O pop-up exibe o texto “Deseja efetuar a matrícula na disciplina?”, com as opções de botão “sim” ou “não”.
-- O aluno clica na opção “sim” e, havendo vaga/disponibilidade na disciplina selecionada, a matrícula é efetuada com sucesso. Abrirá um pop-up exibindo o texto ““Matrícula efetuada com sucesso”.
-- Botão "Fechar" para fechar o pop-up e retornar à tela de Realizar Matrícula.
-
 ## 2) Professores:
 Descrição das telas para criação do protótipo:
 
