@@ -15,6 +15,7 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 ## Protótipo de interface de usuário: Pessoa Física
 1) Alunos:
 - Realizar matrícula em disciplina: o aluno acessa a página de login do sistema, onde há campo para inserir as suas credenciais (login e senha). Caso válidas, o aluno é autenticado e tem acesso ao sistema. No sistema há uma interface com os botões: notas, calendário acadêmico, realizar matrícula, financeiro, serviços e comunicação. O aluno clica na opção "realizar matrícula" e aparecerão todas as disciplinas disponíveis naquele semestre. Ao clicar na disciplina desejada, abrirá uma janela de confirmação da matrícula e havendo vaga/disponibilidade, a matrícula é efetuada, exibindo a mensagem "matrícula efetuada com sucesso".
+- O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/cf222ef0906b1a8cde78bda1c73f88e7b7d48a1c/Prototipagem)
   
 ![Caso de uso 1](https://github.com/rafabertuol/pisegundaentrega/blob/317b2cbfbfa3a6e7426efd5004d0dd4db379601d/Caso%20de%20uso%201%20-%20Fazer%20login.png)
 
