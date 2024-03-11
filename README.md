@@ -30,7 +30,11 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 ![Fornecedor 2](https://github.com/rafabertuol/pisegundaentrega/blob/d7ea340240409332cdfd42f4a14b978ee5473f76/Caso%20de%20uso%202%20-%20Cadastro%20de%20fornecedor%20cancelado.png)
   
 ## Caso de uso 3: cadastrar aluno
-- Cadastro do aluno no sistema: após o aluno se matricular no curso desejado e a matrícula ter sido confirmada, o funcionário responsável inicia o cadastro desse como aluno no sistema. O funcionário acessa o sistema inserindo login e senha; na tela principal há uma interface com os botões: novos cadastros, consulta de cadastros, recursos humanos, folha de pagamento, treinamentos, controle de estoque, requisição de materiais e serviços. O funcionário clica na opção "novos cadastros" e seleciona a opção "cadastrar aluno". O sistema registra as informações e atribui uma matrícula ao aluno. O sistema registra o novo usuário no banco de dados e exibe uma mensagem de sucesso. Caso a matrícula não tenha sido confirmada pelo sistema, abrirá uma mensagem de erro "aluno não encontrado" e o aluno receberá um e-mail informado o motivo da não confirmação, para que possa tomar as medidas cabíveis. O processo também pode ser cancelado clicando na opção "cancelar". 
+- O ator "Candidato" assina o contrato com a faculdade através do sistema, após confirmação da matrícula pelo servidor, o “Funcionário” inicia o cadastro do candidato como “Aluno” no sistema.
+- O sistema registra as informações e atribui uma matrícula ao aluno.
+- O sistema registra o novo usuário no banco de dados e exibe uma mensagem de sucesso. 
+- Caso a matrícula não tenha sido confirmada pelo sistema, o candidato receberá um e-mail informado o motivo da não confirmação, para que possa tomar as medidas cabíveis. 
+- Durante o processo, o funcionário decide cancelar o cadastro. O sistema descarta as alterações e limpa o formulário. 
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
 
 ![Cadastro aluno 1](https://github.com/rafabertuol/pisegundaentrega/blob/c9b407058ce9ade12af68c009718ac3f522ccfe4/Caso%20de%20Uso%203%20-%20Cadastrar%20Aluno.png)
@@ -38,7 +42,11 @@ O projeto consiste em apresentar protótipos de interface de um sistema de gest�
 ![Cadastro aluno 3](https://github.com/rafabertuol/pisegundaentrega/blob/2927027e006192b4ec3044e4c43ce8b707e6a9df/Caso%20de%20Uso%203%20-%20Cadastrar%20Aluno%20Cancelada.png)
 
 ## Caso de uso 4: cadastrar notas
-- Inserção de notas no sistema: o professor acessa o sistema inserindo login e senha; na tela principal, clica em "lançamento de notas", onde seleciona a turma e insere as notas dos alunos. O sistema valida as notas e as armazena no banco de dados, exibindo uma mensagem de confirmação. No momento de validar as notas, se o sistema identificar uma nota inválida (fora da faixa permitida), exibe uma mensagem de erro. O professor corrige a nota e reenvia o dado correto.
+- O ator "Professor" acessa a interface de lançamento de notas e insere as notas dos alunos.
+- O sistema valida as notas e as armazena no banco de dados.
+- O sistema exibe uma mensagem de confirmação.
+- No momento de validar as notas, se o sistema identificar uma nota inválida (fora da faixa permitida), exibe uma mensagem de erro. O professor corrige a nota e reenvia o dado correto.
+- Durante o processo, o professor decide cancelar o lançamento de notas. O sistema descarta as alterações e retorna à interface anterior.
 - O passo a passo da prototipagem pode ser verificado [aqui](https://github.com/rafabertuol/pisegundaentrega/blob/3205ca31f96789bdb9b7d26c3f9188f3009886e3/Prototipagem.md)
   
  ![Cadastro nota 1](https://github.com/rafabertuol/pisegundaentrega/blob/d741ed9d2763f50494df05872e228f78283f0381/Caso%20de%20Uso%204%20-%20Cadastro%20de%20Notas%20-%20V%C3%A1lido.png)
